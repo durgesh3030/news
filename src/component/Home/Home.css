@@ -1,0 +1,9 @@
+.left {
+    background-color: rgb(218, 209, 227);
+}
+
+.right {
+    background-color: aliceblue;
+    position: absolute;
+    top: 0%;
+}

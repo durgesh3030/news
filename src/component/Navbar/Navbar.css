@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    top: 0;
+}
+
+/* .navbar h3 {
+    color: rgb(186, 24, 24);
+} */
+
+/* .n-left {
+    flex: 1;
+    align-items: center;
+    justify-content: left;
+    display: flex;
+    gap: 1rem;
+    margin-left: 10px;
+} */
+
+.n-right {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 5rem;
+    font-weight: 400;
+    position: relative;
+    margin-right: 10px;
+}
